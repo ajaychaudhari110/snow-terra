@@ -1,0 +1,6 @@
+snowflake_account    = "kphkhts-rg78111"
+snowflake_user       = "admin"
+snowflake_role       = "ACCOUNTADMIN"
+snowflake_region     = "us-east-1"
+snowflake_warehouse  = "COMPUTE_WH"
+snowflake_database   = "DQ_TUTORIAL_DB"
