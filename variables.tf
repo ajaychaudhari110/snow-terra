@@ -4,3 +4,5 @@ variable "snowflake_password" {
   sensitive = true
 }
 variable "snowflake_role" {}
+variable "snowflake_warehouse" {}
+variable "snowflake_database" {}
